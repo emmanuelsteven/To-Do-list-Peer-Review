@@ -8,13 +8,11 @@ body {
 main {
   display: flex;
   flex-direction: column;
-  margin-left: 10%;
-  margin-right: 10%;
-  margin-top: 5%;
   background-color: #ebebeb;
   gap: 10px;
   padding: 0.6rem;
   box-shadow: 5px 5px 5px #c0c0c0;
+  margin:10%  5%  0% 10% ;
 }
 
 .header {
